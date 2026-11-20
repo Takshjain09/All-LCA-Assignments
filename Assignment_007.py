@@ -1,6 +1,6 @@
 import pandas as pd
 #Step : 1 : read the file
-df = pd.read_csv("C:/Users/kriya/Downloads/Titanic-Dataset.csv")
+df = pd.read_csv("C:/Users/Taksh/Downloads/Titanic-Dataset.csv")
 
 print(df)
 
